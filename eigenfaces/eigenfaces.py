@@ -9,8 +9,6 @@ from scipy.linalg import eigh as largest_eigh
 
 # initializing
 path = os.getcwd()
-#path = r"C:\Users\coby_000\PycharmProjects\hw2_final"
-
 
 # define functions
 def rgb2gray(path):
